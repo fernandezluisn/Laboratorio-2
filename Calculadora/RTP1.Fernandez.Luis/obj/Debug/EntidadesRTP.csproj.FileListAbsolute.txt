@@ -1,0 +1,6 @@
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP1\RTP1.Fernandez.Luis\bin\Debug\RTP1.Fernandez.Luis.dll
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP1\RTP1.Fernandez.Luis\bin\Debug\RTP1.Fernandez.Luis.pdb
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP1\RTP1.Fernandez.Luis\obj\Debug\EntidadesRTP.csprojAssemblyReference.cache
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP1\RTP1.Fernandez.Luis\obj\Debug\EntidadesRTP.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP1\RTP1.Fernandez.Luis\obj\Debug\RTP1.Fernandez.Luis.dll
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP1\RTP1.Fernandez.Luis\obj\Debug\RTP1.Fernandez.Luis.pdb

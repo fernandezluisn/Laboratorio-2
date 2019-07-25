@@ -1,0 +1,12 @@
+C:\Users\Nahuel\Desktop\nahuel\tp_laboratorio_2-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\nahuel\tp_laboratorio_2-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\Desktop\nahuel\tp_laboratorio_2-master\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nahuel\Desktop\nahuel\tp_laboratorio_2-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\nahuel\tp_laboratorio_2-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\nahuel\tp_laboratorio_2-master\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP4\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP4\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP4\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP4\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP4\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nahuel\Desktop\tp_laboratorio_2\Recuperatorios\RTP4\TP4\Entidades\obj\Debug\Entidades.pdb

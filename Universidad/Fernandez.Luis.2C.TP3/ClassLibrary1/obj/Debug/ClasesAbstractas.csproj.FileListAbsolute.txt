@@ -1,0 +1,2 @@
+C:\Users\Nahuel\Desktop\tp_laboratorio_2-master\Fernandez.Luis.2C.TP3\ClassLibrary1\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Nahuel\Desktop\tp_laboratorio_2-master\Fernandez.Luis.2C.TP3\ClassLibrary1\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache

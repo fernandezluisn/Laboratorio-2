@@ -1,0 +1,10 @@
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\bin\Debug\Fernandez.Luis.TP4.exe.config
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\bin\Debug\Fernandez.Luis.TP4.exe
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\bin\Debug\Fernandez.Luis.TP4.pdb
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.csprojAssemblyReference.cache
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.FrmPpal.resources
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.Properties.Resources.resources
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.csproj.GenerateResource.cache
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.exe
+C:\Users\Nahuel\source\repos\Fernandez.Luis.TP4\obj\Debug\Fernandez.Luis.TP4.pdb
